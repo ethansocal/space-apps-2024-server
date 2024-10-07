@@ -1,0 +1,4 @@
+astropy[recommended]
+pandas
+astroquery
+flask
